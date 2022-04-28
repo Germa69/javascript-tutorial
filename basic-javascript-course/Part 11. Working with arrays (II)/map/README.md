@@ -2,6 +2,7 @@
 
 ```
 - Trả về cái gì thì nó lấy cái đó làm element
+- Nhận lại dữ liệu khi gọi hàm
 ```
 
 ```

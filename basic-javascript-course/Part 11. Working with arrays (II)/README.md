@@ -17,3 +17,8 @@ Khái niệm cơ bản:
 - Cách truyền 1 hàm thông qua đối số của 1 hàm khác được gọi là callback
 - Phương thức là 1 function
 ```
+
+```
+- Tạo array từ [] bản chất được tạo từ construct array 
+- This được hiểu là chính thằng gọi đến phương thức này
+```
