@@ -25,3 +25,7 @@
 12. Callback
 
 13. HTML DOM
+
+14. Json, Fetch, Postman
+
+15. ES6
