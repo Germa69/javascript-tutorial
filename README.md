@@ -18,4 +18,14 @@ https://github.com/Germa69/reactjs-tutorial
 https://github.com/Germa69/algorithm-tutorial
 
 
-
+```
+* JSON
+* Fetch
+* DOM location
+* Local storage
+* Session storage
+* Coding convention 
+* Best Practices
+* Mistakes
+* Performance
+```
